@@ -1,0 +1,99 @@
+﻿body { border-top: 5px solid #233138 }
+.skills-graph li span,
+.dropcap-2,
+.dropcap-3,
+.flickr-feeds li:hover,
+.dribbble-photos li:hover,
+.instagram-photos div:hover,
+.post-title-text span.highlight,
+.post-title-text-2 span.highlight,
+.plan-features li:hover,
+.plan-features li:nth-child(even):hover,
+.post-info div.entry-date,
+h3.title a:active,
+a.more-link,
+.page-pagination span.current,
+ul.tags  li a:hover,
+.comment .comment-meta .reply:hover { background: #233138 }
+.item-description:hover { background: #233138 url("../images/item-bg-arrow.png") bottom center no-repeat }
+.service-plan-2 .pricing-header.colored { background: #233138 url("../images/colors/navy-blue-dark/pricing-table-bg.jpg") repeat }
+.service-plan .pricing-header.colored { background: #233138 url("../images/colors/navy-blue-dark/pricing-table-bg.jpg") repeat }
+#scrolltotop { background: url("../images/colors/navy-blue-dark/top.png") top no-repeat }
+#scrolltotop:hover { background: url("../images/colors/navy-blue-dark/top.png") bottom no-repeat }
+#top-panel-wrapper { background: rgba(35,49,56,0.90) }
+#top-panel-wrapper a.top-panel-switcher { background: #233138 url("../images/top-panel-arrow.png") 90% 50% no-repeat }
+#top-panel-wrapper  a.out { background: rgba(35,49,56,0.90) url("../images/top-panel-arrow-pull.png") 90% 50% no-repeat }
+.portfolio-text-center h4 a:hover,
+.post-meta a:hover { border-bottom: 1pt dashed #233138 }
+#inner-intro { background: #233138 url("../images/colors/navy-blue-dark/inner-page-header-bg.jpg") repeat }
+#inner-intro #main-navigation  ul ul li a:hover { color: #233138!important;background:none!important; }
+#footer h4,.twitter-feeds a,#footer .colored{color:#2c576d;}
+#main-navigation ul li a:hover ,
+a:hover,
+a > *:hover,
+.post-links,
+.colored-text,
+ul#breadcrumbs li a,
+
+ul.blog-post-homepage li a,
+ul.blog-post-inner li a,
+ul.sidebar-widget li a.active,
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a,
+#logo-sub-text,
+ul.accordion li.accordion-item.selected .accordion-switch,
+.testimonial-info p,
+.dropcap-1,
+.tabs-nav li.active a,
+.service-plan .package-title,
+.service-plan-important .pricing span,
+.service-plan-2 .package-title,
+.service-plan-2 .package-title,
+.service-plan-important .pricing span,
+.categories a:hover,
+.sidebar .widget a.permalink,
+.post-meta a:hover { color: #233138 }
+
+#inner-intro > #post-header-panel .colored-text {
+    color: #61f2c1;
+    text-shadow: 0px 1px #1a6b44;
+}
+#inner-intro > #post-header-panel h1 { text-shadow: 0px 1px #1a6b44 }
+
+#copyrights-wrapper { border-bottom: 5px solid #233138 }
+#filterable span.tooltip { border-left: 4pt solid #233138 }
+.tabs-nav li.active a { border-top: 1px solid #233138 }
+.button:hover,
+.button.grey:hover {
+    background: #233138;
+    background: -moz-linear-gradient(top, #233138 0%, #142128 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#233138), color-stop(100%,#142128));
+    background: -webkit-linear-gradient(top, #233138 0%,#142128 100%);
+    background: -o-linear-gradient(top, #233138 0%,#142128 100%);
+    background: -ms-linear-gradient(top, #233138 0%,#142128 100%);
+    background: linear-gradient(top, #233138 0%,#142128 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#233138', endColorstr='#142128',GradientType=0 );
+    color: #FFF;
+    text-shadow: 0px 1px #131e23;
+    border-top: 1pt solid #2c4b5b;
+    border-bottom: 1pt solid #0c161b;
+}
+.search-form input[type="submit"]:hover { background-color: #233138 }
+#filterable li a.active {
+    color: #233138!important;
+    border-bottom: 1pt solid #233138;
+}
+#filterable li a:hover { border-bottom: 1pt solid #233138 }
+#filterable li:hover { color: #233138 }
+ul.project-pagination li .next:hover { background: rgba(35,49,56,100) url("../images/project-pagination-next.png") right no-repeat }
+ul.project-pagination li .prev:hover { background: rgba(35,49,56,100) url("../images/project-pagination-prev.png") left no-repeat }
+ul.project-pagination li .all-projects:hover { background: rgba(35,49,56,100) url("../images/all-projects.png") right no-repeat }
+
+.search-form input[type="submit"] { background: url(../images/colors/navy-blue-dark/search-ico.png) no-repeat left top;}
+#top-panel-wrapper { background: rgba(35,49,56,0.90);}
+#inner-intro > #post-header-panel .colored-text {color: #436c80;text-shadow: 0px 1px #131e23;}
+#inner-intro > #post-header-panel h1 {text-shadow: 0px 1px #131e23;}
+.search-form{ border-bottom: 1px solid #364e5a;background: #131e23;box-shadow: inset 3px 3px 3px #0e1519;}
+#inner-intro > #header { border-bottom: 1pt solid #121f25 }
+#inner-intro > #post-header-panel { border-top: 1pt solid #344852 }
+#inner-intro #main-navigation  ul li a:hover {  background: #0d161b!important;border-radius:3px;  }
+.flex-direction-nav li a:hover  {  background-color: #233138; border-bottom: none;}

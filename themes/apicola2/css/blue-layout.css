@@ -1,0 +1,99 @@
+﻿body { border-top: 5px solid #4dabaa } 
+.skills-graph li span,
+.dropcap-2,
+.dropcap-3,
+.flickr-feeds li:hover,
+.dribbble-photos li:hover,
+.instagram-photos div:hover,
+.post-title-text span.highlight,
+.post-title-text-2 span.highlight,
+.plan-features li:hover,
+.plan-features li:nth-child(even):hover,
+.post-info div.entry-date,
+h3.title a:active,
+a.more-link,
+.page-pagination span.current,
+ul.tags  li a:hover,
+.comment .comment-meta .reply:hover { background: #4dabaa }
+.item-description:hover { background: #4dabaa url("../images/item-bg-arrow.png") bottom center no-repeat }
+.service-plan-2 .pricing-header.colored { background: #4dabaa url("../images/colors/blue/pricing-table-bg.jpg") repeat }
+.service-plan .pricing-header.colored { background: #4dabaa url("../images/colors/blue/pricing-table-bg.jpg") repeat }
+#scrolltotop { background: url("../images/colors/blue/top.png") top no-repeat }
+#scrolltotop:hover { background: url("../images/colors/blue/top.png") bottom no-repeat }
+#top-panel-wrapper { background: rgba(77,171,170,0.90) }
+#top-panel-wrapper a.top-panel-switcher { background: #4dabaa url("../images/top-panel-arrow.png") 90% 50% no-repeat }
+#top-panel-wrapper  a.out { background: rgba(77,171,170,0.90) url("../images/top-panel-arrow-pull.png") 90% 50% no-repeat }
+.portfolio-text-center h4 a:hover,
+.post-meta a:hover { border-bottom: 1pt dashed #4dabaa }
+#inner-intro { background: #4dabaa url("../images/colors/blue/inner-page-header-bg.jpg") repeat }
+#inner-intro #main-navigation  ul ul li a:hover { color: #4dabaa!important;background:none!important; }
+#main-navigation ul li a:hover ,
+a:hover,
+a > *:hover,
+.post-links,
+.colored-text,
+ul#breadcrumbs li a,
+#footer h4,
+.twitter-feeds a,
+ul.blog-post-homepage li a,
+ul.blog-post-inner li a,
+ul.sidebar-widget li a.active,
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a,
+#logo-sub-text,
+ul.accordion li.accordion-item.selected .accordion-switch,
+.testimonial-info p,
+.dropcap-1,
+.tabs-nav li.active a,
+.service-plan .package-title,
+.service-plan-important .pricing span,
+.service-plan-2 .package-title,
+.service-plan-2 .package-title,
+.service-plan-important .pricing span,
+.categories a:hover,
+.sidebar .widget a.permalink,
+.post-meta a:hover { color: #4dabaa }
+
+#inner-intro > #post-header-panel .colored-text {
+    color: #61f2c1;
+    text-shadow: 0px 1px #1a6b44;
+}
+#inner-intro > #post-header-panel h1 { text-shadow: 0px 1px #1a6b44 }
+
+#copyrights-wrapper { border-bottom: 5px solid #4dabaa }
+#filterable span.tooltip { border-left: 4pt solid #4dabaa }
+.tabs-nav li.active a { border-top: 1px solid #4dabaa }
+.button:hover,
+.button.grey:hover {
+    background: #4dabaa;
+    background: -moz-linear-gradient(top, #4dabaa 0%, #1b8483 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#4dabaa), color-stop(100%,#1b8483));
+    background: -webkit-linear-gradient(top, #4dabaa 0%,#1b8483 100%);
+    background: -o-linear-gradient(top, #4dabaa 0%,#1b8483 100%);
+    background: -ms-linear-gradient(top, #4dabaa 0%,#1b8483 100%);
+    background: linear-gradient(top, #4dabaa 0%,#1b8483 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4dabaa', endColorstr='#1b8483',GradientType=0 );
+    color: #FFF;
+    text-shadow: 0px 1px #147675;
+    border-top: 1pt solid #5fcdcc;
+    border-bottom: 1pt solid #187978;
+}
+.search-form input[type="submit"]:hover { background-color: #4dabaa }
+#filterable li a.active {
+    color: #4dabaa!important;
+    border-bottom: 1pt solid #4dabaa;
+}
+#filterable li a:hover { border-bottom: 1pt solid #4dabaa }
+#filterable li:hover { color: #4dabaa }
+ul.project-pagination li .next:hover { background: rgba(77,171,170,100) url("../images/project-pagination-next.png") right no-repeat }
+ul.project-pagination li .prev:hover { background: rgba(77,171,170,100) url("../images/project-pagination-prev.png") left no-repeat }
+ul.project-pagination li .all-projects:hover { background: rgba(77,171,170,100) url("../images/all-projects.png") right no-repeat }
+
+.search-form input[type="submit"] { background: url(../images/colors/blue/search-ico.png) no-repeat left top;}
+#top-panel-wrapper { background: rgba(77,171,170,0.90);}
+#inner-intro > #post-header-panel .colored-text {color: #6cefee;text-shadow: 0px 1px #147675;}
+#inner-intro > #post-header-panel h1 {text-shadow: 0px 1px #147675;}
+.search-form{ border-bottom: 1px solid #53bfbe;background: #2f8b8a;box-shadow: inset 3px 3px 3px #178483;}
+#inner-intro > #header { border-bottom: 1pt solid #379695 }
+#inner-intro > #post-header-panel { border-top: 1pt solid #54bcbb }
+#inner-intro #main-navigation  ul li a:hover {  background: #098e8d!important;border-radius:3px;  }
+.flex-direction-nav li a:hover  {  background-color: #4dabaa; border-bottom: none;}

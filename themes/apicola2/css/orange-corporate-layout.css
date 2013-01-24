@@ -1,0 +1,99 @@
+﻿body { border-top: 5px solid #f26101 }
+.skills-graph li span,
+.dropcap-2,
+.dropcap-3,
+.flickr-feeds li:hover,
+.dribbble-photos li:hover,
+.instagram-photos div:hover,
+.post-title-text span.highlight,
+.post-title-text-2 span.highlight,
+.plan-features li:hover,
+.plan-features li:nth-child(even):hover,
+.post-info div.entry-date,
+h3.title a:active,
+a.more-link,
+.page-pagination span.current,
+ul.tags  li a:hover,
+.comment .comment-meta .reply:hover { background: #f26101 }
+.item-description:hover { background: #f26101 url("../images/item-bg-arrow.png") bottom center no-repeat }
+.service-plan-2 .pricing-header.colored { background: #f26101 url("../images/colors/orange-corporate/pricing-table-bg.jpg") repeat }
+.service-plan .pricing-header.colored { background: #f26101 url("../images/colors/orange-corporate/pricing-table-bg.jpg") repeat }
+#scrolltotop { background: url("../images/colors/orange-corporate/top.png") top no-repeat }
+#scrolltotop:hover { background: url("../images/colors/orange-corporate/top.png") bottom no-repeat }
+#top-panel-wrapper { background: rgba(242,97,1,0.90) }
+#top-panel-wrapper a.top-panel-switcher { background: #f26101 url("../images/top-panel-arrow.png") 90% 50% no-repeat }
+#top-panel-wrapper  a.out { background: rgba(242,97,1,0.90) url("../images/top-panel-arrow-pull.png") 90% 50% no-repeat }
+.portfolio-text-center h4 a:hover,
+.post-meta a:hover { border-bottom: 1pt dashed #f26101 }
+#inner-intro { background: #f26101 url("../images/colors/orange-corporate/inner-page-header-bg.jpg") repeat }
+#inner-intro #main-navigation  ul ul li a:hover { color: #f26101!important;background:none!important; }
+#main-navigation ul li a:hover ,
+a:hover,
+a > *:hover,
+.post-links,
+.colored-text,
+ul#breadcrumbs li a,
+#footer h4,
+.twitter-feeds a,
+ul.blog-post-homepage li a,
+ul.blog-post-inner li a,
+ul.sidebar-widget li a.active,
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a,
+#logo-sub-text,
+ul.accordion li.accordion-item.selected .accordion-switch,
+.testimonial-info p,
+.dropcap-1,
+.tabs-nav li.active a,
+.service-plan .package-title,
+.service-plan-important .pricing span,
+.service-plan-2 .package-title,
+.service-plan-2 .package-title,
+.service-plan-important .pricing span,
+.categories a:hover,
+.sidebar .widget a.permalink,
+.post-meta a:hover { color: #f26101 }
+
+#inner-intro > #post-header-panel .colored-text {
+    color: #61f2c1;
+    text-shadow: 0px 1px #1a6b44;
+}
+#inner-intro > #post-header-panel h1 { text-shadow: 0px 1px #1a6b44 }
+
+#copyrights-wrapper { border-bottom: 5px solid #f26101 }
+#filterable span.tooltip { border-left: 4pt solid #f26101 }
+.tabs-nav li.active a { border-top: 1px solid #f26101 }
+.button:hover,
+.button.grey:hover {
+    background: #f26101;
+    background: -moz-linear-gradient(top, #f26101 0%, #c85305 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f26101), color-stop(100%,#c85305));
+    background: -webkit-linear-gradient(top, #f26101 0%,#c85305 100%);
+    background: -o-linear-gradient(top, #f26101 0%,#c85305 100%);
+    background: -ms-linear-gradient(top, #f26101 0%,#c85305 100%);
+    background: linear-gradient(top, #f26101 0%,#c85305 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f26101', endColorstr='#c85305',GradientType=0 );
+    color: #FFF;
+    text-shadow: 0px 1px #bf4e03;
+    border-top: 1pt solid #fe8e44;
+    border-bottom: 1pt solid #a14203;
+}
+.search-form input[type="submit"]:hover { background-color: #f26101 }
+#filterable li a.active {
+    color: #f26101!important;
+    border-bottom: 1pt solid #f26101;
+}
+#filterable li a:hover { border-bottom: 1pt solid #f26101 }
+#filterable li:hover { color: #f26101 }
+ul.project-pagination li .next:hover { background: rgba(242,97,1,100) url("../images/project-pagination-next.png") right no-repeat }
+ul.project-pagination li .prev:hover { background: rgba(242,97,1,100) url("../images/project-pagination-prev.png") left no-repeat }
+ul.project-pagination li .all-projects:hover { background: rgba(242,97,1,100) url("../images/all-projects.png") right no-repeat }
+
+.search-form input[type="submit"] { background: url(../images/colors/orange-corporate/search-ico.png) no-repeat left top;}
+#top-panel-wrapper { background: rgba(242,97,1,0.90);}
+#inner-intro > #post-header-panel .colored-text {color: #feb787;text-shadow: 0px 1px #bf4e03;}
+#inner-intro > #post-header-panel h1 {text-shadow: 0px 1px #bf4e03;}
+.search-form{ border-bottom: 1px solid #fc8434;background: #bf4e03;box-shadow: inset 3px 3px 3px #a24b12;}
+#inner-intro > #header { border-bottom: 1pt solid #dc5801 }
+#inner-intro > #post-header-panel { border-top: 1pt solid #ff7113 }
+#inner-intro #main-navigation  ul li a:hover {  background: #d25400!important;border-radius:3px;  }
+.flex-direction-nav li a:hover  {  background-color: #f26101; border-bottom: none;}

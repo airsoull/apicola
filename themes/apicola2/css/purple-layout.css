@@ -1,0 +1,98 @@
+﻿body { border-top: 5px solid #3e385a }
+.skills-graph li span,
+.dropcap-2,
+.dropcap-3,
+.flickr-feeds li:hover,
+.dribbble-photos li:hover,
+.instagram-photos div:hover,
+.post-title-text span.highlight,
+.post-title-text-2 span.highlight,
+.plan-features li:hover,
+.plan-features li:nth-child(even):hover,
+.post-info div.entry-date,
+h3.title a:active,
+a.more-link,
+.page-pagination span.current,
+ul.tags  li a:hover,
+.comment .comment-meta .reply:hover { background: #3e385a }
+.item-description:hover { background: #3e385a url("../images/item-bg-arrow.png") bottom center no-repeat }
+.service-plan-2 .pricing-header.colored { background: #3e385a url("../images/colors/purple/pricing-table-bg.jpg") repeat }
+.service-plan .pricing-header.colored { background: #3e385a url("../images/colors/purple/pricing-table-bg.jpg") repeat }
+#scrolltotop { background: url("../images/colors/purple/top.png") top no-repeat }
+#scrolltotop:hover { background: url("../images/colors/purple/top.png") bottom no-repeat }
+#top-panel-wrapper { background: rgba(62,56,90,0.90) }
+#top-panel-wrapper a.top-panel-switcher { background: #3e385a url("../images/top-panel-arrow.png") 90% 50% no-repeat }
+#top-panel-wrapper  a.out { background: rgba(62,56,90,0.90) url("../images/top-panel-arrow-pull.png") 90% 50% no-repeat }
+.portfolio-text-center h4 a:hover,
+.post-meta a:hover { border-bottom: 1pt dashed #3e385a }
+#inner-intro { background: #3e385a url("../images/colors/purple/inner-page-header-bg.jpg") repeat }
+#inner-intro #main-navigation  ul ul li a:hover { color: #3e385a!important;background:none!important; }
+#footer h4,#footer .colored,.twitter-feeds a{color:#5d5485;}
+#main-navigation ul li a:hover ,
+a:hover,
+a > *:hover,
+.post-links,
+.colored-text,
+ul#breadcrumbs li a,
+ul.blog-post-homepage li a,
+ul.blog-post-inner li a,
+ul.sidebar-widget li a.active,
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a,
+#logo-sub-text,
+ul.accordion li.accordion-item.selected .accordion-switch,
+.testimonial-info p,
+.dropcap-1,
+.tabs-nav li.active a,
+.service-plan .package-title,
+.service-plan-important .pricing span,
+.service-plan-2 .package-title,
+.service-plan-2 .package-title,
+.service-plan-important .pricing span,
+.categories a:hover,
+.sidebar .widget a.permalink,
+.post-meta a:hover { color: #3e385a }
+
+#inner-intro > #post-header-panel .colored-text {
+    color: #61f2c1;
+    text-shadow: 0px 1px #1a6b44;
+}
+#inner-intro > #post-header-panel h1 { text-shadow: 0px 1px #1a6b44 }
+
+#copyrights-wrapper { border-bottom: 5px solid #3e385a }
+#filterable span.tooltip { border-left: 4pt solid #3e385a }
+.tabs-nav li.active a { border-top: 1px solid #3e385a }
+.button:hover,
+.button.grey:hover {
+    background: #3e385a;
+    background: -moz-linear-gradient(top, #3e385a 0%, #312b4b 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#3e385a), color-stop(100%,#312b4b));
+    background: -webkit-linear-gradient(top, #3e385a 0%,#312b4b 100%);
+    background: -o-linear-gradient(top, #3e385a 0%,#312b4b 100%);
+    background: -ms-linear-gradient(top, #3e385a 0%,#312b4b 100%);
+    background: linear-gradient(top, #3e385a 0%,#312b4b 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3e385a', endColorstr='#312b4b',GradientType=0 );
+    color: #FFF;
+    text-shadow: 0px 1px #2d264c;
+    border-top: 1pt solid #5d5389;
+    border-bottom: 1pt solid #26213c;
+}
+.search-form input[type="submit"]:hover { background-color: #3e385a }
+#filterable li a.active {
+    color: #3e385a!important;
+    border-bottom: 1pt solid #3e385a;
+}
+#filterable li a:hover { border-bottom: 1pt solid #3e385a }
+#filterable li:hover { color: #3e385a }
+ul.project-pagination li .next:hover { background: rgba(62,56,90,100) url("../images/project-pagination-next.png") right no-repeat }
+ul.project-pagination li .prev:hover { background: rgba(62,56,90,100) url("../images/project-pagination-prev.png") left no-repeat }
+ul.project-pagination li .all-projects:hover { background: rgba(62,56,90,100) url("../images/all-projects.png") right no-repeat }
+
+.search-form input[type="submit"] { background: url(../images/colors/purple/search-ico.png) no-repeat left top;}
+#top-panel-wrapper { background: rgba(62,56,90,0.90);}
+#inner-intro > #post-header-panel .colored-text {color: #a297d6;text-shadow: 0px 1px #2d264c;}
+#inner-intro > #post-header-panel h1 {text-shadow: 0px 1px #2d264c;}
+.search-form{ border-bottom: 1px solid #544a7f;background: #2d264c;box-shadow: inset 3px 3px 3px #231d42;}
+#inner-intro > #header { border-bottom: 1pt solid #342e51  }
+#inner-intro > #post-header-panel { border-top: 1pt solid #4f496f }
+#inner-intro #main-navigation  ul li a:hover {  background: #2c2745!important;border-radius:3px;  }
+.flex-direction-nav li a:hover  {  background-color: #3e385a; border-bottom: none;}
